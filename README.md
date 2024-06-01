@@ -11,4 +11,4 @@
 - enter your <b>credentials</b> for the smtp relay server
 
 # Author
-- Program Developed by Horlalaycon @ GitHub https://github.com/Horlalaycon
+- Program Developed by f3ar_0f_th3_unkn0w @ GitHub https://github.com/Horlalaycon
